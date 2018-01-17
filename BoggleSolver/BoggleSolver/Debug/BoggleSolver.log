@@ -1,0 +1,10 @@
+﻿  Dictionary.cpp
+c:\users\chhap\onedrive\documents\visual studio 2015\projects\bogglesolver\bogglesolver\dictionary.cpp(46): warning C4018: '<': signed/unsigned mismatch
+c:\users\chhap\onedrive\documents\visual studio 2015\projects\bogglesolver\bogglesolver\dictionary.cpp(72): warning C4018: '<': signed/unsigned mismatch
+c:\users\chhap\onedrive\documents\visual studio 2015\projects\bogglesolver\bogglesolver\dictionary.cpp(91): warning C4018: '<': signed/unsigned mismatch
+  BoggleSolver.cpp
+c:\users\chhap\onedrive\documents\visual studio 2015\projects\bogglesolver\bogglesolver\bogglesolver.cpp(250): warning C4244: 'argument': conversion from 'time_t' to 'unsigned int', possible loss of data
+c:\users\chhap\onedrive\documents\visual studio 2015\projects\bogglesolver\bogglesolver\bogglesolver.cpp(275): warning C4018: '<': signed/unsigned mismatch
+  Generating Code...
+  BoggleSolver.vcxproj -> C:\Users\chhap\onedrive\documents\visual studio 2015\Projects\BoggleSolver\Debug\BoggleSolver.exe
+  BoggleSolver.vcxproj -> C:\Users\chhap\onedrive\documents\visual studio 2015\Projects\BoggleSolver\Debug\BoggleSolver.pdb (Full PDB)
