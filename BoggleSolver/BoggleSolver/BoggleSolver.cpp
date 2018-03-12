@@ -69,9 +69,7 @@ bool isValidLocation(int i, int j) {
 	return false;
 }
 
-/* This funcion returns string value from queue
-Precondition: The Object is been initialized
-Postcondition: the function combines all characters and returns as string */
+/* This funcion returns string value from queue*/
 string BoggleSolver::getString() {
 	string word = "";
 	MyBoard* counterBoard = root;
